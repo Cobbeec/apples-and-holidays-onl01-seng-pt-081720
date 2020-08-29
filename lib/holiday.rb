@@ -24,7 +24,7 @@ def add_supply_to_winter_holidays(holiday_hash, item)
    decorations.push(item)
   end
 end
-return add_supply_to_winter_holidays(holiday_supplies, "Balloons")
+return add_supply_to_winter_holidays(holiday_supplies, "Cookies")
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
